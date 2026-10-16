@@ -30,9 +30,11 @@
 
 ## About
 
-**Meaningful** (m8l) is a full-stack growth agency. We build websites, run SEO and AEO (answer engine optimization), and create content that brings in pipeline. We work with teams in **North America, Latin America and Europe**, in English and Spanish.
+**Meaningful (m8l)** is a full-stack growth agency. We build websites, run SEO and AEO (answer engine optimization), and create content that brings in pipeline. We work with teams in **North America, Latin America and Europe**, in English and Spanish.
 
-Founded by Alberto Sadde and Orlando.
+- 📍 Headquartered in **Miami, FL**, 100% remote
+- 👥 **50+ people** across the US, Mexico, Colombia, Venezuela and Argentina
+- Founded by **Alberto Sadde** and **Orlando**
 
 ## What we do
 
