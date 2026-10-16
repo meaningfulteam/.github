@@ -1,8 +1,8 @@
 <p align="center">
   <a href="https://www.m8l.com">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="../assets/meaningful-logo-light.svg">
-      <img src="../assets/meaningful-logo.svg" alt="Meaningful" width="240">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meaningfulteam/.github/main/assets/meaningful-logo-light.svg">
+      <img src="https://raw.githubusercontent.com/meaningfulteam/.github/main/assets/meaningful-logo.svg" alt="Meaningful" width="240">
     </picture>
   </a>
 </p>
